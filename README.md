@@ -12,7 +12,7 @@
 
 # Installation --(must have NumPy and SciPy)
 ### Note, it's better to work on a new env for each project instead of conda base(root). An alternative solution for low storage —install only what you need for each project on a new env & keep packages minimal on base(root).
-## Anaconda CLI 
+## Anaconda CLI:
 1. conda create --name myenv
 2. conda activate myenv
 3. conda install numpy scipy
@@ -22,7 +22,7 @@
       * import scipy
 5. When done: conda deactivate
 
-## Miniconda CLI 
+## Miniconda CLI: 
 1. conda create --name myenv
 2. conda activate myenv
 3. conda install pip
